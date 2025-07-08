@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+input{
+	width:100%;
+	border-radius:5px;
+	padding:5px;
+}
+.form-group{
+	margin:10px;
+	padding:5px;
+}
+#submit{
+	border:none;
+	background-color:blue;
+	color:white;
+	font-size:16px;
+	padding:10px;
+	border:5px solid lightblue;
+	border-radius:5px;
+	margin-top:5px;
+}
+.table{
+	margin-top:10px;
+	width:90%;
+	text-align:center;
+}
+.table .book-list{
+	background-color:lightpinlk;
+	color:white;
+}
+.delete{
+	border:none;
+	background-color:white;
+}
